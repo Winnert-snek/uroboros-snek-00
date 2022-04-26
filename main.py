@@ -2,7 +2,7 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-# dev branch change json lols
+# Added get_name1() function, room for scaling up
 
 def get_name1():
     first_name1 = input("Enter your first name: ")
