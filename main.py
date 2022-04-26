@@ -15,6 +15,9 @@ def print_hi(name1, name2):
     # name2 = last name
     print(f'Hi, {name1} {name2}')  # Press Ctrl+F8 to toggle the breakpoint.
 
+def random_greeting():
+    pass
+
 
 
 # Press the green button in the gutter to run the script.
